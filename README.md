@@ -5,9 +5,7 @@
 
 # Signup system
 This is a simple signup endpoint
-# Access it here
-<https://signup-app-system.herokuapp.com/>
-# Endpoint
+
 
 | Endpoint | route              | Method |  
 |----------|--------------------|--------|
